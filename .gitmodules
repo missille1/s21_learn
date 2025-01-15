@@ -1,0 +1,3 @@
+[submodule "С/ping_pong"]
+	path = С/ping_pong
+	url = https://github.com/missille1/ping_pong
