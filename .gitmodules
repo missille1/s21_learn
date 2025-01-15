@@ -1,3 +1,6 @@
 [submodule "С/ping_pong"]
 	path = С/ping_pong
 	url = https://github.com/missille1/ping_pong
+[submodule "С/s21_SimpleBashUtils"]
+	path = С/s21_SimpleBashUtils
+	url = https://github.com/missille1/s21_SimpleBashUtils
