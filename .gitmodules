@@ -7,3 +7,6 @@
 [submodule "С/s21_math"]
 	path = С/s21_math
 	url = https://github.com/missille1/s21_math
+[submodule "С/s21_matrix"]
+	path = С/s21_matrix
+	url = https://github.com/missille1/s21_matrix
