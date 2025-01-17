@@ -4,3 +4,6 @@
 [submodule "С/s21_SimpleBashUtils"]
 	path = С/s21_SimpleBashUtils
 	url = https://github.com/missille1/s21_SimpleBashUtils
+[submodule "С/s21_math"]
+	path = С/s21_math
+	url = https://github.com/missille1/s21_math
