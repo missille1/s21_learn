@@ -10,3 +10,6 @@
 [submodule "С/s21_matrix"]
 	path = С/s21_matrix
 	url = https://github.com/missille1/s21_matrix
+[submodule "Linux/s21_Linux"]
+	path = Linux/s21_Linux
+	url = https://github.com/missille1/s21_Linux
