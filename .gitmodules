@@ -16,3 +16,6 @@
 [submodule "С/s21_BrickGame"]
 	path = С/s21_BrickGame
 	url = https://github.com/missille1/s21_BrickGame.git
+[submodule "Linux/s21_LinuxNetwork"]
+	path = Linux/s21_LinuxNetwork
+	url = https://github.com/missille1/s21_LinuxNetwork.git
