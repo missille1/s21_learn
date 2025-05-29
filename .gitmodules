@@ -25,3 +25,6 @@
 [submodule "Linux/s21_CICD"]
 	path = Linux/s21_CICD
 	url = https://github.com/missille1/s21_CICD.git
+[submodule "Sql/s21_sql"]
+	path = Sql/s21_sql
+	url = https://github.com/missille1/s21_sql.git
