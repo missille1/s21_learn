@@ -22,3 +22,6 @@
 [submodule "Linux/s21_SimpleDocker"]
 	path = Linux/s21_SimpleDocker
 	url = https://github.com/missille1/s21_SimpleDocker.git
+[submodule "Linux/s21_CICD"]
+	path = Linux/s21_CICD
+	url = https://github.com/missille1/s21_CICD.git
