@@ -13,3 +13,6 @@
 [submodule "Linux/s21_Linux"]
 	path = Linux/s21_Linux
 	url = https://github.com/missille1/s21_Linux
+[submodule "С/s21_BrickGame"]
+	path = С/s21_BrickGame
+	url = https://github.com/missille1/s21_BrickGame.git
