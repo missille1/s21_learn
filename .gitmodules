@@ -19,3 +19,6 @@
 [submodule "Linux/s21_LinuxNetwork"]
 	path = Linux/s21_LinuxNetwork
 	url = https://github.com/missille1/s21_LinuxNetwork.git
+[submodule "Linux/s21_SimpleDocker"]
+	path = Linux/s21_SimpleDocker
+	url = https://github.com/missille1/s21_SimpleDocker.git
