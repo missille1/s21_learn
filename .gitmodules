@@ -28,3 +28,6 @@
 [submodule "Sql/s21_sql"]
 	path = Sql/s21_sql
 	url = https://github.com/missille1/s21_sql.git
+[submodule "C++/s21_matrixplus"]
+	path = C++/s21_matrixplus
+	url = https://github.com/missille1/s21_matrixplus.git
