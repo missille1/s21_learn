@@ -31,3 +31,18 @@
 [submodule "C++/s21_matrixplus"]
 	path = C++/s21_matrixplus
 	url = https://github.com/missille1/s21_matrixplus.git
+[submodule "python/AP1-Py-T01"]
+	path = python/AP1-Py-T01
+	url = https://github.com/missille1/AP1-Py-T01.git
+[submodule "python/AP1-Py-T02"]
+	path = python/AP1-Py-T02
+	url = https://github.com/missille1/AP1-Py-T02.git
+[submodule "Linux/s21_LinuxMonitoring_v1.0"]
+	path = Linux/s21_LinuxMonitoring_v1.0
+	url = https://github.com/missille1/s21_LinuxMonitoring_v1.0.git
+[submodule "Linux/s21_LinuxMonitoring_v2.0"]
+	path = Linux/s21_LinuxMonitoring_v2.0
+	url = https://github.com/missille1/s21_LinuxMonitoring_v2.0.git
+[submodule "Linux/DO7_Docker-Compose"]
+	path = Linux/DO7_Docker-Compose
+	url = https://github.com/missille1/DO7_Docker-Compose.git
