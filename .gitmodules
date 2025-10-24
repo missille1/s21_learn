@@ -43,3 +43,6 @@
 [submodule "Linux/DO7_Docker-Compose"]
 	path = Linux/DO7_Docker-Compose
 	url = https://github.com/missille1/DO7_Docker-Compose.git
+[submodule "Linux/DO8_AutomationTools"]
+	path = Linux/DO8_AutomationTools
+	url = https://github.com/missille1/DO8_AutomationTools.git
